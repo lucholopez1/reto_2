@@ -1,2 +1,2 @@
 # reto_2
-![mermaid-diagram-2024-11-26-223401](https://github.com/user-attachments/assets/19279e31-d2e1-403d-a9bc-df6cfcbe9a20)
+![image](https://github.com/user-attachments/assets/b98e9fbd-e12a-4db0-b37e-0a29ee8700d2)
